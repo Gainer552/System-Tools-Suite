@@ -1,6 +1,6 @@
 # System-Tools-Suite
 
-**COMING SOON**
+**NOW AVAILABLE!**
 
 **System Tools Suite Installer**
 
